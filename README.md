@@ -42,5 +42,5 @@ Email di conferma (Ristoratore)
 Email di conferma (Cliente)
 ![alt text](<screenshots/Screenshot 2024-09-25 110416.png>)
 
-<a url='https://github.com/juri931/back-end-deliveboo' target="_blank">Clicca
+<a href='https://github.com/juri931/back-end-deliveboo' target="_blank">Clicca
 qui per il Back-End!</a>
