@@ -1,0 +1,45 @@
+body {
+  font-family: "Josefin Sans", sans-serif !important;
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+  width: 100vw !important;
+  background-color: rgb(245, 245, 245);
+
+  .container-fluid {
+    --bs-gutter-x: 0 !important;
+  }
+
+  .container-fluid {
+    // Sposto il contenuto sotto l'header
+    margin-top: 70px !important;
+  }
+
+  .container {
+    margin-bottom: 100px !important;
+  }
+
+  img {
+    width: 100% !important;
+  }
+}
+
+// Scrollbar
+::-webkit-scrollbar {
+  width: 4px;
+  background-color: #181b21;
+}
+::-webkit-scrollbar-thumb {
+  background: #e88735;
+}
+
+// For FireFox
+html {
+  scrollbar-width: auto;
+}
+body::-webkit-scrollbar {
+  width: 4px;
+  background-color: #181b21;
+  ::-webkit-scrollbar-thumb {
+    background: #e88735;
+  }
+}
