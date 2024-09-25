@@ -12,29 +12,32 @@ dinamico e piacevole alla vista.
 
 Ecco uno sguardo al progetto
 
-Home ![alt text](<Screenshot 2024-09-25 105438.png>)
+Home ![alt text](<screenshots/Screenshot 2024-09-25 105438.png>)
 
-Cosa Facciamo ![alt text](<Screenshot 2024-09-25 105547.png>)
+Cosa Facciamo ![alt text](<screenshots/Screenshot 2024-09-25 105547.png>)
 
-Invito ![alt text](<Screenshot 2024-09-25 105603.png>)
+Invito ![alt text](<screenshots/Screenshot 2024-09-25 105603.png>)
 
-Recensioni ![alt text](<Screenshot 2024-09-25 105627.png>)
+Recensioni ![alt text](<screenshots/Screenshot 2024-09-25 105627.png>)
 
-Lista Ristoranti ![alt text](<Screenshot 2024-09-25 105813.png>)
+Lista Ristoranti ![alt text](<screenshots/Screenshot 2024-09-25 105813.png>)
 
-Ricerca Avanzata ![alt text](<Screenshot 2024-09-25 105850.png>)
+Ricerca Avanzata ![alt text](<screenshots/Screenshot 2024-09-25 105850.png>)
 
-Pagina Ristorante con menù ![alt text](<Screenshot 2024-09-25 105949.png>)
+Pagina Ristorante con menù
+![alt text](<screenshots/Screenshot 2024-09-25 105949.png>)
 
-Carrello ![alt text](<Screenshot 2024-09-25 110026.png>)
+Carrello ![alt text](<screenshots/Screenshot 2024-09-25 110026.png>)
 
-Dettaglio carrello ![alt text](<Screenshot 2024-09-25 110100.png>)
+Dettaglio carrello ![alt text](<screenshots/Screenshot 2024-09-25 110100.png>)
 
-Pagamento ![alt text](<Screenshot 2024-09-25 110137.png>)
+Pagamento ![alt text](<screenshots/Screenshot 2024-09-25 110137.png>)
 
-Conferma pagamento ![alt text](<Screenshot 2024-09-25 110213.png>)
+Conferma pagamento ![alt text](<screenshots/Screenshot 2024-09-25 110213.png>)
 
-Email di conferma (Ristoratore) ![alt text](<Screenshot 2024-09-25 110257.png>)
-![alt text](<Screenshot 2024-09-25 110332.png>)
+Email di conferma (Ristoratore)
+![alt text](<screenshots/Screenshot 2024-09-25 110257.png>)
+![alt text](<screenshots/Screenshot 2024-09-25 110332.png>)
 
-Email di conferma (Cliente) ![alt text](<Screenshot 2024-09-25 110416.png>)
+Email di conferma (Cliente)
+![alt text](<screenshots/Screenshot 2024-09-25 110416.png>)
